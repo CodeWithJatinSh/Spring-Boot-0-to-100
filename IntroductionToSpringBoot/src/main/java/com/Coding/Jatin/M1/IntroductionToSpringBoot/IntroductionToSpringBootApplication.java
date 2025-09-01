@@ -16,6 +16,7 @@ public class IntroductionToSpringBootApplication implements CommandLineRunner{
     @Override
     public void run(String... args){
         cafe.orderCoffee();
+        cafe.CheckCupId();
     }
 
 }

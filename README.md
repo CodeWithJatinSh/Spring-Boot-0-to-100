@@ -86,7 +86,6 @@ Spring-Boot-0-to-100/
 
 **Jatin Sohanvi**
 📧 Email: sohanvijatin@gmail.com
-🔗 LinkedIn: linkedin.com/in/jatin-sohanvi-7007591b7
 Learning Java + Spring Boot 🚀
 
 ---

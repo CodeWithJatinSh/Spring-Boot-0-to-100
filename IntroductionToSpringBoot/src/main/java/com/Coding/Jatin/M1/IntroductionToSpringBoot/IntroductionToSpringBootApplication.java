@@ -10,11 +10,15 @@ public class IntroductionToSpringBootApplication implements CommandLineRunner{
     @Autowired
     private Cafe cafe;
 
+    @Autowired
+    private CoffeeCup coffeeMachine;
+
 	public static void main(String[] args) {
         SpringApplication.run(IntroductionToSpringBootApplication.class, args);
 	}
     @Override
     public void run(String... args){
+        coffeeMachine.drink();
         cafe.orderCoffee();
         cafe.CheckCupId();
     }

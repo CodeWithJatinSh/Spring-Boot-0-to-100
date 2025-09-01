@@ -28,8 +28,8 @@ This repository contains hands-on examples, experiments, and small projects that
 
 ## 🛠️ Tech Stack
 
-* **Java 17+**
-* **Spring Boot 3.x**
+* **Java**
+* **Spring Boot**
 * **Maven**
 * **IntelliJ IDEA**
 * (Future) MySQL / JPA / REST APIs
@@ -53,7 +53,7 @@ Spring-Boot-0-to-100/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/Spring-Boot-0-to-100.git
+   git clone https://github.com/CodeWithJatinSh/Spring-Boot-0-to-100.git
    cd Spring-Boot-0-to-100
    ```
 2. Build & run using Maven/IDE:
@@ -88,5 +88,3 @@ Spring-Boot-0-to-100/
 Learning Java + Spring Boot + Full Stack 🚀
 
 ---
-
-Would you like me to make the README **more professional (for recruiters)** or **more casual (for personal journey vibes)**?
